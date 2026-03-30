@@ -11,6 +11,13 @@
     {
       "id": 2,
       "type": "image",
+      "url": "https://thumbs.dreamstime.com/z/pages-holy-book-quran-photo-45814265.jpg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 3,
+      "type": "image",
       "url": "https://images.pexels.com/photos/161276/moscow-cathedral-mosque-prospekt-mira-ramadan-sky-161276.jpeg",
       "title": "المسجد",
       "description": "صورة جميلة للمسجد"
