@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2025-03-31",
+  "items": [
+    {
+      "id": 1,
+      "type": "image",
+      "url": "https://images.pexels.com/photos/7079553/pexels-photo-7079553.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "url": "https://images.pexels.com/photos/161276/moscow-cathedral-mosque-prospekt-mira-ramadan-sky-161276.jpeg",
+      "title": "المسجد",
+      "description": "صورة جميلة للمسجد"
+    }
+  ]
+}
