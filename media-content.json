@@ -4,23 +4,16 @@
     {
       "id": 1,
       "type": "image",
-      "url": "https://www.youtube.com/embed/ArZgORVi3V0",
+      "url": "https://images.pexels.com/photos/7079553/pexels-photo-7079553.jpeg",
       "title": "القرآن الكريم",
       "description": "تلاوة القرآن الكريم"
     },
     {
       "id": 2,
-      "type": "image",
-      "url": "https://thumbs.dreamstime.com/z/pages-holy-book-quran-photo-45814265.jpg",
-      "title": "القرآن الكريم",
-      "description": "تلاوة القرآن الكريم"
-    },
-    {
-      "id": 3,
-      "type": "image",
-      "url": "https://images.pexels.com/photos/161276/moscow-cathedral-mosque-prospekt-mira-ramadan-sky-161276.jpeg",
-      "title": "المسجد",
-      "description": "صورة جميلة للمسجد"
+      "type": "video",
+      "url": "https://www.youtube-nocookie.com/embed/2U6fZtq-pQM",
+      "title": "سورة الفاتحة",
+      "description": "تلاوة مشاري العفاسي"
     }
   ]
 }
