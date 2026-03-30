@@ -9,11 +9,11 @@
       "description": "تلاوة القرآن الكريم"
     },
     {
-      "id": 2,
-      "type": "video",
-      "url": "https://www.youtube-nocookie.com/embed/2U6fZtq-pQM",
-      "title": "سورة الفاتحة",
-      "description": "تلاوة مشاري العفاسي"
-    }
+  "id": 2,
+  "type": "video",
+  "url": "https://www.youtube-nocookie.com/embed/6D9FZw6_n5k",
+  "title": "سورة الرحمن",
+  "description": "تلاوة مشاري العفاسي"
+}
   ]
 }
