@@ -60,16 +60,16 @@
     {
       "id": 9,
       "type": "image",
-      "url": "https://i.imgur.com/zRrmpBA.jpeg",
+      "url": "https://quran-media.pages.dev/images/zRrmpBA.jpeg",
       "title": "القرآن الكريم",
       "description": "تلاوة القرآن الكريم"
     },
     {
   "id": 10,
   "type": "video",
-  "url": "https://www.yout-ube.com/watch?v=s4cm1p9Wua4",
-  "title": "سورة الفاتحة",
-  "description": "تلاوة مشاري العفاسي"
+  "url": "https://www.youtube.com/watch?v=s4cm1p9Wua4",
+  "title": "لماذا لا يتغير قلبك رغم أنك تقرأ القرآن",
+  "description": "الدكتور عبد الرحمن الحرمي"
 }
   ]
 }
