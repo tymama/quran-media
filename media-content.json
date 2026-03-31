@@ -4,14 +4,71 @@
     {
       "id": 1,
       "type": "image",
-      "url": "https://images.pexels.com/photos/7079553/pexels-photo-7079553.jpeg",
+      "url": "https://i.imgur.com/6QP0ObY.jpeg",
       "title": "القرآن الكريم",
       "description": "تلاوة القرآن الكريم"
     },
     {
-  "id": 2,
+      "id": 2,
+      "type": "image",
+      "url": "https://i.imgur.com/PE1lnO7.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "url": "https://i.imgur.com/zKYDsw2.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "url": "https://i.imgur.com/25h6iLo.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "url": "https://i.imgur.com/QQzqhun.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 6,
+      "type": "image",
+      "url": "https://i.imgur.com/r7Y6Lev.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 7,
+      "type": "image",
+      "url": "https://i.imgur.com/VQ4cmvk.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 8,
+      "type": "image",
+      "url": "https://i.imgur.com/XwLA5X8.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+      "id": 9,
+      "type": "image",
+      "url": "https://i.imgur.com/zRrmpBA.jpeg",
+      "title": "القرآن الكريم",
+      "description": "تلاوة القرآن الكريم"
+    },
+    {
+  "id": 10,
   "type": "video",
-  "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+  "url": "https://www.yout-ube.com/watch?v=s4cm1p9Wua4
+",
   "title": "سورة الفاتحة",
   "description": "تلاوة مشاري العفاسي"
 }
