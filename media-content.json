@@ -16,9 +16,9 @@
     {
       "id": 3,
       "type": "video",
-      "url": "https://quran-media.pages.dev/images/xyz123.jpg",
-      "title": "فيديو ثالث",
-      "description": "وصف الفيديو الثالث"
+      "url": "https://www.youtube.com/watch?v=rQv4iCFe2Dk",
+      "title": "كيف يفتح الاستغفار أبواب الفرج؟",
+      "description": "الدكتور عبد الرحمن الحرمي"
     },
     {
       "id": 4,
@@ -33,16 +33,16 @@
     {
       "id": 6,
       "type": "video",
-      "url": "https://quran-media.pages.dev/images/video4.jpg",
-      "title": "فيديو رابع",
-      "description": "وصف الفيديو الرابع"
+      "url": "https://www.youtube.com/watch?v=xNZyu9Q3xBQ",
+      "title": "أنت مش لوحدك..ربنا معاك",
+      "description": "الشيخ مصطفى حسني"
     },
     {
       "id": 7,
       "type": "video",
-      "url": "https://quran-media.pages.dev/images/video5.jpg",
-      "title": "فيديو خامس",
-      "description": "وصف الفيديو الخامس"
+      "url": "https://www.youtube.com/watch?v=x-BZKZLXyx0",
+      "title": "علاج التشتّت والكسل وضعف الإرادة",
+      "description": "الشيخ أحمد النفيس"
     },
     {
       "id": 8,
@@ -57,9 +57,9 @@
     {
       "id": 10,
       "type": "video",
-      "url": "https://quran-media.pages.dev/images/video6.jpg",
-      "title": "فيديو سادس",
-      "description": "وصف الفيديو السادس"
+      "url": "https://www.youtube.com/watch?v=c94UVMpRiK8",
+      "title": "هل يمكن لآية واحدة أن تغيّر حياتك للأبد؟",
+      "description": "الشيخ بلال الجهماني"
     },
     {
       "id": 11,
